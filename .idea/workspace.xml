@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0a07d11-8e02-4792-99ce-ca0c14a62c47" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_basic/lab0011.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Python_basic/lab0011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_python_veriables/lab0012.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_python_veriables/lab0012.py" afterDir="false" />
+    <list default="true" id="f0a07d11-8e02-4792-99ce-ca0c14a62c47" name="Changes" comment="new file added">
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_basic/lab001_Python_Hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_basic/lab002_comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_basic/lab003_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab004_Keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab005_Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab006_identifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_basic/lab0011.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_python_veriables/lab0012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_python_veriables/lab003.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +31,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="33mzPcVrlsAa91Nvn5L8ptPDNMe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,34 +47,21 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.lab0011.executor": "Run",
     "Python.lab0012.executor": "Run",
+    "Python.lab001_Python_Hello.executor": "Run",
+    "Python.lab002_comment.executor": "Run",
+    "Python.lab003.executor": "Run",
+    "Python.lab003_print.executor": "Run",
+    "Python.lab004_Keyword.executor": "Run",
+    "Python.lab005_Variable.executor": "Run",
+    "Python.lab006_identifier.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lab003">
-    <configuration name="lab0011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_01_Python_basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_01_Python_basic/lab0011.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="lab0012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject2" />
       <option name="ENV_FILES" value="" />
@@ -79,6 +76,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_02_python_veriables/lab0012.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab001_Python_Hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_01_Python_basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\reshm\PycharmProjects\PyATB6xLearning\pythonProject2\src\ex_01_Python_basic\lab001_Python_Hello.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,9 +130,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab003" />
         <item itemvalue="Python.lab0012" />
-        <item itemvalue="Python.lab0011" />
+        <item itemvalue="Python.lab001_Python_Hello" />
+        <item itemvalue="Python.lab003" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +152,19 @@
       <option name="presentableId" value="Default" />
       <updated>1759937012484</updated>
     </task>
+    <task id="LOCAL-00001" summary="new file added">
+      <option name="closed" value="true" />
+      <created>1759937790659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759937790659</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file added" />
   </component>
 </project>
