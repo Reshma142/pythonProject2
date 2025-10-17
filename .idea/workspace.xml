@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0a07d11-8e02-4792-99ce-ca0c14a62c47" name="Changes" comment="11th oct 2025- Files">
-      <change afterPath="$PROJECT_DIR$/Task/Task7_find_greater_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/task5_find_area_of_circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/task6_area_of_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab029_task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab030_task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab031_Arth_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab031_Ath_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab031_Unary_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab032_comparision_op.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab033_logic_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab034_operator_p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab035_Q_Div.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab036_operator_comparision.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab037_perator_logical.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab038_operators_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab039_operators_p2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab040_operators_p3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab040_ternary_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab040_userinput_ternary_op.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab041_membership_op.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab042_identity_op.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab042_math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f0a07d11-8e02-4792-99ce-ca0c14a62c47" name="Changes" comment="14 Oct 2025-Files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,13 +223,22 @@
       <option name="project" value="LOCAL" />
       <updated>1760708246921</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="14 Oct 2025-Files">
+      <option name="closed" value="true" />
+      <created>1760714355833</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760714355833</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new file added" />
     <MESSAGE value="9th oct 2025- Files" />
     <MESSAGE value="11th oct 2025- Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="11th oct 2025- Files" />
+    <MESSAGE value="14 Oct 2025-Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="14 Oct 2025-Files" />
   </component>
 </project>
