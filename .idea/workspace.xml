@@ -4,17 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0a07d11-8e02-4792-99ce-ca0c14a62c47" name="Changes" comment="new file added">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_basic/lab001_Python_Hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_basic/lab002_comment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_basic/lab003_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab004_Keyword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab005_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab006_identifier.py" afterDir="false" />
+    <list default="true" id="f0a07d11-8e02-4792-99ce-ca0c14a62c47" name="Changes" comment="9th oct 2025- Files">
+      <change afterPath="$PROJECT_DIR$/Task/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/task2_Builtin_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/task3_All_Escape_Sequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab0011_iq_Bodmas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab007_variables_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab008_dynamicaly_typed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab009_identifier_rule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab010_maths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab012_multiple_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab013_multiple_prints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab014_math_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab015_interview_question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab016_Literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab017_Multiple_comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab018_multiline_comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab019_data_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab020_builtin_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab021_user_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab022_user_input_sum_of_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab023_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab024_sting_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab025_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab026_litrals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab027_escape_char.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_basic/lab0011.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_python_veriables/lab0012.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_python_veriables/lab003.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +61,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.lab0011.executor": "Run",
+    "Python.lab0011_iq_Bodmas.executor": "Run",
     "Python.lab0012.executor": "Run",
     "Python.lab001_Python_Hello.executor": "Run",
     "Python.lab002_comment.executor": "Run",
@@ -54,6 +70,30 @@
     "Python.lab004_Keyword.executor": "Run",
     "Python.lab005_Variable.executor": "Run",
     "Python.lab006_identifier.executor": "Run",
+    "Python.lab007_variables_names.executor": "Run",
+    "Python.lab008_dynamicaly_typed.executor": "Run",
+    "Python.lab009_identifier_rule.executor": "Run",
+    "Python.lab009_maths.executor": "Run",
+    "Python.lab010_maths.executor": "Run",
+    "Python.lab012_multiple_variables.executor": "Run",
+    "Python.lab013_multiple_prints.executor": "Run",
+    "Python.lab014_math_functions.executor": "Run",
+    "Python.lab015_interview_question.executor": "Run",
+    "Python.lab016_Literals.executor": "Run",
+    "Python.lab017_Multi_comments.executor": "Run",
+    "Python.lab018_multiple_comments.executor": "Run",
+    "Python.lab019_data_types.executor": "Run",
+    "Python.lab020_builtin_functions.executor": "Run",
+    "Python.lab021_user_input.executor": "Run",
+    "Python.lab022_user_input_sum_of_two_numbers.executor": "Run",
+    "Python.lab023_Strings.executor": "Run",
+    "Python.lab024_sting_conversion.executor": "Run",
+    "Python.lab025_strings.executor": "Run",
+    "Python.lab026_litrals.executor": "Run",
+    "Python.lab027_escape_char.executor": "Run",
+    "Python.task1.executor": "Run",
+    "Python.task2_Builtin_functions.executor": "Run",
+    "Python.task3_All_Escape_Sequences.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -160,11 +200,28 @@
       <option name="project" value="LOCAL" />
       <updated>1759937790659</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="9th oct 2025- Files">
+      <option name="closed" value="true" />
+      <created>1760702069254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760702069254</updated>
+    </task>
+    <task id="LOCAL-00003" summary="9th oct 2025- Files">
+      <option name="closed" value="true" />
+      <created>1760702313150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760702313150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file added" />
+    <MESSAGE value="9th oct 2025- Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th oct 2025- Files" />
   </component>
 </project>
