@@ -4,31 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0a07d11-8e02-4792-99ce-ca0c14a62c47" name="Changes" comment="9th oct 2025- Files">
-      <change afterPath="$PROJECT_DIR$/Task/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/task2_Builtin_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task/task3_All_Escape_Sequences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab0011_iq_Bodmas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab007_variables_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab008_dynamicaly_typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab009_identifier_rule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab010_maths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab012_multiple_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab013_multiple_prints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab014_math_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_python_Keywords_Veriables_identifiers/lab015_interview_question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab016_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab017_Multiple_comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab018_multiline_comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab019_data_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab020_builtin_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab021_user_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab022_user_input_sum_of_two_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab023_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab024_sting_conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab025_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab026_litrals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab027_escape_char.py" afterDir="false" />
+    <list default="true" id="f0a07d11-8e02-4792-99ce-ca0c14a62c47" name="Changes" comment="11th oct 2025- Files">
+      <change afterPath="$PROJECT_DIR$/Task/Task7_find_greater_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/task5_find_area_of_circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/task6_area_of_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab029_task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals_Variables/lab030_task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab031_Arth_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab031_Ath_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab031_Unary_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab032_comparision_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab033_logic_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab034_operator_p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab035_Q_Div.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab036_operator_comparision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab037_perator_logical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab038_operators_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab039_operators_p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab040_operators_p3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab040_ternary_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab040_userinput_ternary_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab041_membership_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab042_identity_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/lab042_math.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +59,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Task7_find_greater_num.executor": "Run",
     "Python.lab0011.executor": "Run",
     "Python.lab0011_iq_Bodmas.executor": "Run",
     "Python.lab0012.executor": "Run",
@@ -91,9 +91,33 @@
     "Python.lab025_strings.executor": "Run",
     "Python.lab026_litrals.executor": "Run",
     "Python.lab027_escape_char.executor": "Run",
+    "Python.lab028_string_double_single_diff.executor": "Run",
+    "Python.lab029_task1.executor": "Run",
+    "Python.lab030_task2.executor": "Run",
+    "Python.lab031_Ath_Operator.executor": "Run",
+    "Python.lab032_Arth_Operators.executor": "Run",
+    "Python.lab033_Unary_operator.executor": "Run",
+    "Python.lab034_comparision_op.executor": "Run",
+    "Python.lab035_logic_operator.executor": "Run",
+    "Python.lab036_operator_comparision.executor": "Run",
+    "Python.lab036_operator_p1.executor": "Run",
+    "Python.lab037_Q_Div.executor": "Run",
+    "Python.lab037_perator_logical.executor": "Run",
+    "Python.lab038_operators_example.executor": "Run",
+    "Python.lab039_operators_p2.executor": "Run",
+    "Python.lab040_operators_p3.executor": "Run",
+    "Python.lab041_ternary_operator.executor": "Run",
+    "Python.lab042_identity_op.executor": "Run",
+    "Python.lab042_math.executor": "Run",
+    "Python.lab042_userinput_ternary_op.executor": "Run",
+    "Python.lab043_membership_op.executor": "Run",
     "Python.task1.executor": "Run",
     "Python.task2_Builtin_functions.executor": "Run",
+    "Python.task3.executor": "Run",
     "Python.task3_All_Escape_Sequences.executor": "Run",
+    "Python.task4.executor": "Run",
+    "Python.task5_find_area_of_circle.executor": "Run",
+    "Python.task6_area_of_triangle.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -216,12 +240,21 @@
       <option name="project" value="LOCAL" />
       <updated>1760702313150</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="11th oct 2025- Files">
+      <option name="closed" value="true" />
+      <created>1760708246921</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760708246921</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new file added" />
     <MESSAGE value="9th oct 2025- Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th oct 2025- Files" />
+    <MESSAGE value="11th oct 2025- Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="11th oct 2025- Files" />
   </component>
 </project>
