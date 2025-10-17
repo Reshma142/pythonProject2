@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0a07d11-8e02-4792-99ce-ca0c14a62c47" name="Changes" comment="14 Oct 2025-Files" />
+    <list default="true" id="f0a07d11-8e02-4792-99ce-ca0c14a62c47" name="Changes" comment="14 Oct 2025-Files">
+      <change afterPath="$PROJECT_DIR$/Task/task10_we_page_loads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/task11_login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/task12_API_Response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task/task9_compare_expected_and_actual_outputs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditional_loop.py/lab043_if_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditional_loop.py/lab043_if_condition_optimization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditional_loop.py/lab044_elseif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditional_loop.py/lab044_nested_ifelse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditional_loop.py/lab045_if_else_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditional_loop.py/lab046_if_else_elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditional_loop.py/lab047_grade_cal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,14 +98,24 @@
     "Python.lab042_identity_op.executor": "Run",
     "Python.lab042_math.executor": "Run",
     "Python.lab042_userinput_ternary_op.executor": "Run",
+    "Python.lab043_if_condition.executor": "Run",
+    "Python.lab043_if_condition_optimization.executor": "Run",
     "Python.lab043_membership_op.executor": "Run",
+    "Python.lab044_elseif.executor": "Run",
+    "Python.lab045_if_else_condition.executor": "Run",
+    "Python.lab045_nested_ifelse.executor": "Run",
+    "Python.lab046_if_else_elif.executor": "Run",
+    "Python.lab047_grade_cal.executor": "Run",
     "Python.task1.executor": "Run",
+    "Python.task10_we_page_loads.executor": "Run",
+    "Python.task11_login_page.executor": "Run",
     "Python.task2_Builtin_functions.executor": "Run",
     "Python.task3.executor": "Run",
     "Python.task3_All_Escape_Sequences.executor": "Run",
     "Python.task4.executor": "Run",
     "Python.task5_find_area_of_circle.executor": "Run",
     "Python.task6_area_of_triangle.executor": "Run",
+    "Python.task9_compare_expected_and_actual_outputs.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -231,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760714355833</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="14 Oct 2025-Files">
+      <option name="closed" value="true" />
+      <created>1760714435581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760714435581</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
